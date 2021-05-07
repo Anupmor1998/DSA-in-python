@@ -1,3 +1,5 @@
+# Count pairs with given sum
+
 def getPairsCount(arr, k):
     # code here
     c = 0
@@ -12,4 +14,4 @@ def getPairsCount(arr, k):
     return c
 
 
-print(getPairsCount([1, 5, 7, 1],6))
+print(getPairsCount([1, 5, 7, 1], 6))

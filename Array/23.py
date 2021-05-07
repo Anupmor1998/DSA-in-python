@@ -1,3 +1,5 @@
+# Maximum Product Subarray
+
 def maxProduct(arr, n):
     currMax = arr[0]
     currMin = arr[0]

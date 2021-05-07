@@ -1,3 +1,5 @@
+# Trapping Rain water
+
 def trappingWater(arr, n):
 
     water = 0

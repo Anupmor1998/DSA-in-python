@@ -1,3 +1,6 @@
+# Triplet Sum in Array
+
+
 def find3Numbers(A, n, X):
     A.sort()
 
